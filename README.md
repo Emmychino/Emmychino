@@ -11,7 +11,7 @@
 
 -----------
 
-```bash
+```markdown
 I love **cloud**
 It is the only thing that makes me happy
 ````
