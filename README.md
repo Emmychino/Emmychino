@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Emmychino/Emmychino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Emmychino** is my name and this is my *README.md* file on your GitHub profile.
 
-Here are some ideas to get you started:
+#The things i can do includes:
+- Provisioning of cloud resources
+- Uploading files in S3 buckets and any other cloud storage
+- Hosting static websites
+- Working with Linux or VS Code to provision resources
+- etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------
+
+```bash
+I love ***cloud***
+It is the only thing that makes me happy
+````
