@@ -12,6 +12,6 @@
 -----------
 
 ```bash
-I love ***cloud***
+I love **cloud**
 It is the only thing that makes me happy
 ````
